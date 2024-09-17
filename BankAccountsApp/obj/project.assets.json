@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Saldina\\.nuget\\packages\\": {}
+    "C:\\Users\\achristopher\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saldina\\Desktop\\BankAccountsApp\\BankAccountsApp\\BankAccountsApp.csproj",
+      "projectUniqueName": "D:\\Personal Projects\\Bank-Accounts-App.OOP-Events-Youtube-video\\BankAccountsApp\\BankAccountsApp.csproj",
       "projectName": "BankAccountsApp",
-      "projectPath": "C:\\Users\\Saldina\\Desktop\\BankAccountsApp\\BankAccountsApp\\BankAccountsApp.csproj",
-      "packagesPath": "C:\\Users\\Saldina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saldina\\Desktop\\BankAccountsApp\\BankAccountsApp\\obj\\",
+      "projectPath": "D:\\Personal Projects\\Bank-Accounts-App.OOP-Events-Youtube-video\\BankAccountsApp\\BankAccountsApp.csproj",
+      "packagesPath": "C:\\Users\\achristopher\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal Projects\\Bank-Accounts-App.OOP-Events-Youtube-video\\BankAccountsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Saldina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\achristopher\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://braveenergy.pkgs.visualstudio.com/_packaging/BravePackages/nuget/v3/index.json": {},
+        "https://nuget.devexpress.com/v3cf3Pq9JWLQ9U86nLw2itoMRnxLCV4hYcik5DQUhfILBdILYI/api": {},
+        "https://pkgs.dev.azure.com/braveenergy/_packaging/BravePackages/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {

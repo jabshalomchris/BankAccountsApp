@@ -14,3 +14,20 @@ C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-window
 C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.pdb
 C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.genruntimeconfig.cache
 C:\Users\Saldina\Desktop\BankAccountsApp\BankAccountsApp\obj\Debug\net8.0-windows\ref\BankAccountsApp.dll
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.exe
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.deps.json
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.runtimeconfig.json
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.dll
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\bin\Debug\net8.0-windows\BankAccountsApp.pdb
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.Form1.resources
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.GenerateResource.cache
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfoInputs.cache
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.AssemblyInfo.cs
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.csproj.CoreCompileInputs.cache
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.sourcelink.json
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.dll
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\refint\BankAccountsApp.dll
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.pdb
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\BankAccountsApp.genruntimeconfig.cache
+D:\Personal Projects\Bank-Accounts-App.OOP-Events-Youtube-video\BankAccountsApp\obj\Debug\net8.0-windows\ref\BankAccountsApp.dll
