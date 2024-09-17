@@ -2,25 +2,28 @@ namespace BankAccountsApp
 {
     public partial class Form1 : Form
     {
+        List<BankAccount> BankAccounts = new List<BankAccount>();
+
         public Form1()
         {
             InitializeComponent();
-
-            BankAccount bankAccount = new BankAccount("Saldina Nurak");
-            BankAccount bankAccount2 = new BankAccount("Elon Musk");
-            BankAccount bankAccount3 = new BankAccount("Bill Gates");
-            BankAccount bankAccount4 = new BankAccount("Mark Zuck");
-           
-
-            List<BankAccount> bankAccounts = new List<BankAccount>();
-            bankAccounts.Add(bankAccount);
-            bankAccounts.Add(bankAccount2);
-            bankAccounts.Add(bankAccount3);
-            bankAccounts.Add(bankAccount4);
-
-            BankAccountsGrid.DataSource = bankAccounts;
-
         }
-        
+
+        private void CreateAccountBtn_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(OwnerTxt.Text))
+                return;
+
+            BankAccounts.Add(new BankAccount(OwnerTxt.Text));
+            RefreshGrid();
+
+            OwnerTxt.Text = string.Empty;
+        }
+
+        public void RefreshGrid()
+        {
+            BankAccountsGrid.DataSource = null;
+            BankAccountsGrid.DataSource = BankAccounts;
+        }
     }
 }
