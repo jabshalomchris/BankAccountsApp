@@ -46,7 +46,7 @@
             label1.Location = new Point(36, 35);
             label1.Margin = new Padding(5, 0, 5, 0);
             label1.Name = "label1";
-            label1.Size = new Size(79, 30);
+            label1.Size = new Size(101, 37);
             label1.TabIndex = 0;
             label1.Text = "Owner:";
             // 
@@ -56,7 +56,7 @@
             label2.Location = new Point(36, 276);
             label2.Margin = new Padding(5, 0, 5, 0);
             label2.Name = "label2";
-            label2.Size = new Size(93, 30);
+            label2.Size = new Size(118, 37);
             label2.TabIndex = 1;
             label2.Text = "Amount:";
             // 
@@ -64,14 +64,14 @@
             // 
             OwnerTxt.Location = new Point(123, 35);
             OwnerTxt.Name = "OwnerTxt";
-            OwnerTxt.Size = new Size(229, 35);
+            OwnerTxt.Size = new Size(229, 42);
             OwnerTxt.TabIndex = 2;
             // 
             // AmountNum
             // 
             AmountNum.Location = new Point(137, 271);
             AmountNum.Name = "AmountNum";
-            AmountNum.Size = new Size(215, 35);
+            AmountNum.Size = new Size(215, 42);
             AmountNum.TabIndex = 3;
             // 
             // BankAccountsGrid
@@ -80,6 +80,7 @@
             BankAccountsGrid.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             BankAccountsGrid.Location = new Point(411, 35);
             BankAccountsGrid.Name = "BankAccountsGrid";
+            BankAccountsGrid.RowHeadersWidth = 51;
             BankAccountsGrid.Size = new Size(503, 219);
             BankAccountsGrid.TabIndex = 4;
             // 
@@ -103,16 +104,17 @@
             // 
             // CreateAccountBtn
             // 
-            CreateAccountBtn.Location = new Point(123, 90);
+            CreateAccountBtn.Location = new Point(124, 90);
             CreateAccountBtn.Name = "CreateAccountBtn";
             CreateAccountBtn.Size = new Size(229, 54);
             CreateAccountBtn.TabIndex = 7;
             CreateAccountBtn.Text = "Create account";
             CreateAccountBtn.UseVisualStyleBackColor = true;
+            CreateAccountBtn.Click += CreateAccountBtn_Click;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(12F, 30F);
+            AutoScaleDimensions = new SizeF(14F, 36F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(934, 330);
             Controls.Add(CreateAccountBtn);
